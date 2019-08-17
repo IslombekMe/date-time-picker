@@ -1,25 +1,42 @@
 {
-  "name": "@busacca/ng-pick-datetime",
-  "version": "8.0.1",
-  "description": "Angular Date Time Picker",
-  "keywords": [
-    "Angular",
-    "datepicker",
-    "date picker",
-    "timepicker",
-    "time picker"
+  "_args": [
+    [
+      "@busacca/ng-pick-datetime@8.0.1",
+      "/Users/islombekhasanov/iCloud Drive (Archive)/Documents/This year/Weltlink/TMS/GitLab-TMS/tms"
+    ]
   ],
-  "author": "daniel pan <myron.yk.pan@gmail.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dbusacca/date-time-picker.git"
+  "_from": "@busacca/ng-pick-datetime@8.0.1",
+  "_id": "@busacca/ng-pick-datetime@8.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-XFTuQDRBawNeZcisfH0CtMc3oLzO2vLp5ZJxRlwXROKS1K1H9LGsOKap1mJV3QxuxoqaOZg0OpEykDgmRGwgeQ==",
+  "_location": "/@busacca/ng-pick-datetime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@busacca/ng-pick-datetime@8.0.1",
+    "name": "@busacca/ng-pick-datetime",
+    "escapedName": "@busacca%2fng-pick-datetime",
+    "scope": "@busacca",
+    "rawSpec": "8.0.1",
+    "saveSpec": null,
+    "fetchSpec": "8.0.1"
   },
-  "jsnext:main": "picker.js",
-  "module": "picker.js",
-  "types": "picker.d.ts",
-  "main": "picker.bundle.js",
-  "peerDependencies": {},
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@busacca/ng-pick-datetime/-/ng-pick-datetime-8.0.1.tgz",
+  "_spec": "8.0.1",
+  "_where": "/Users/islombekhasanov/iCloud Drive (Archive)/Documents/This year/Weltlink/TMS/GitLab-TMS/tms",
+  "author": {
+    "name": "daniel pan",
+    "email": "myron.yk.pan@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dbusacca/date-time-picker/issues"
+  },
+  "dependencies": {},
+  "description": "Angular Date Time Picker",
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.800.2",
     "@angular-devkit/build-optimizer": "~0.800.2",
@@ -76,5 +93,24 @@
     "web-animations-js": "^2.3.1",
     "zone.js": "0.9.1"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/dbusacca/date-time-picker#readme",
+  "jsnext:main": "picker.js",
+  "keywords": [
+    "Angular",
+    "datepicker",
+    "date picker",
+    "timepicker",
+    "time picker"
+  ],
+  "license": "MIT",
+  "main": "picker.bundle.js",
+  "module": "picker.js",
+  "name": "@busacca/ng-pick-datetime",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbusacca/date-time-picker.git"
+  },
+  "types": "picker.d.ts",
+  "version": "8.0.1"
 }
